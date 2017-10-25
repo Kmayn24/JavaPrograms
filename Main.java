@@ -1,3 +1,4 @@
+//SimpleMath Program
 // First Java Program made by Kyle Maynard - by Kyle Maynard
 // Made in the morning from 0600 - 0700 0n October 4, 2017
 
